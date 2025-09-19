@@ -30,7 +30,20 @@ Evaluation: Calculated the accuracy score on the test set, generated a confusion
 # Results
 The model achieved strong predictive accuracy using only reading and writing as predictors. The analysis identified a clear correlation: higher reading and writing scores significantly improve a student's chance of passing math.
 
+---
 
-    
-# 👩‍💻 Author
-Mabel Naa Densua Offei | https://www.linkedin.com/in/naa-densua/
+### 📂 How to Use
+
+You can explore the notebook directly in your browser or clone the repository to run it locally.
+
+* **Open in Google Colab:** [Student Performance Notebook](https://colab.research.google.com/drive/1Y8s-7ID4i3F1sGzmkaPM-MeEXlitfpXh?usp=sharing)
+* **Clone the Repository:**
+    ```bash
+    git clone https://github.com/NaaDensuaOffei/Student-Performance-Analysis.git
+    ```
+
+---
+
+### 👩‍💻 Author
+
+**Mabel Naa Densua Offei** | [LinkedIn](https://www.linkedin.com/in/naa-densua/)
